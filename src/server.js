@@ -27,6 +27,13 @@ const facts = [
   "Pigs can't look up at the sky!",
   'Our solar system is moving through space at 515,000 miles per hour!',
   'The 100 folds in a chef’s hat represent 100 ways to cook an egg!',
+  'Gary Oldman is actually 13 days younger than Gary Numan.',
+  'A single litter of kittens can have more than one father.',
+  'Redheads typically need about 20% more anesthesia than people with different hair color.',
+  'Toilet paper is thought to have first been produced in the late 800s AD in China.',
+  'The "Hollywood" sign on the hills in Los Angeles originally read "Hollywoodland".',
+  'When taking a warm shower, people exeprience an increased dopamine flow which leads to more creativity.',
+  'A cockroach can live for nine days without its head before it finally dies of starvation.',
 ];
 
 class JsonResponse extends Response {
