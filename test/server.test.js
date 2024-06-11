@@ -1,10 +1,6 @@
 import { expect } from 'chai';
 import { describe, it, beforeEach, afterEach } from 'mocha';
-import {
-  InteractionResponseType,
-  InteractionType,
-  InteractionResponseFlags,
-} from 'discord-interactions';
+import { InteractionResponseType, InteractionType } from 'discord-interactions';
 import { ROCK_FACT } from '../src/commands.js';
 import sinon from 'sinon';
 import server from '../src/server.js';
