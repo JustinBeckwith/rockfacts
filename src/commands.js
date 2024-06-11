@@ -6,4 +6,6 @@
 export const ROCK_FACT = {
   name: 'rockfact',
   description: 'Tell me a rock fact!',
+  integration_types: [0, 1],
+  contexts: [0, 1, 2],
 };
